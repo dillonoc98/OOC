@@ -9,7 +9,8 @@ public class test {
 		int y = 6;
 		i=x+y;
 		System.out.println(i);
-		System.out.print("Step 2");
+		System.out.println("Step 2");
+		System.out.print("Step 3");
 	}
 
 }
