@@ -10,7 +10,8 @@ public class test {
 		i=x+y;
 		System.out.println(i);
 		System.out.println("Step 2");
-		System.out.print("Step 3");
+		System.out.println("Step 3");
+		System.out.println("Step 4");
 	}
 
 }
